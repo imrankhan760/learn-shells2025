@@ -7,3 +7,4 @@ autincation need
 
 finall code recived
 last
+VARIABLE
