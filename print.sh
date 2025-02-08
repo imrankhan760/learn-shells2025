@@ -1,1 +1,1 @@
-echo -e "\e[31 m hello in green\e[0m"
+echo -e "\e[31mhello in green\e[0m"
